@@ -1,1 +1,2 @@
 # pandas-challenge
+In this pandas challenge you will see the creation of different data frames created from a series of school data. It analyzes different school districts and their success in Reading and Mathematics. It also analyzes each school district by their budgets, total students, and school types. 
